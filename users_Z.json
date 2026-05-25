@@ -4,7 +4,7 @@
   "global_message": "",
   "users": {
 	"a0cd83b45a9be20e": {
-		"name": "ZFLIP1",
+		"name": "TEAM_1",
 		"Clones": [
 			{ "name": "igg.01", "key": ["01", "Ol", "0l"] },
 			{ "name": "igg.02", "key": ["02", "O2"] },
@@ -20,13 +20,14 @@
 	},
 	
 	"8fc0bdfd5551c667": {
-		"name": "ZFLIP2",
+		"name": "TEAM_3",
 		"Clones": [						
 			{ "name": "igg.20", "key": ["20", "2O"] },
 			{ "name": "igg.21", "key": ["21", "2l"] },
 			{ "name": "igg.22", "key": ["22"] },
 			{ "name": "igg.26", "key": ["26"] },
-			{ "name": "igg.27", "key": ["27"] }
+			{ "name": "igg.27", "key": ["27"] },
+			{ "name": "igg.28", "key": ["28"] }
 			
 		]
 	},
@@ -34,14 +35,12 @@
 	"f9ad3e980a0d05c7": {
 		"name": "ZFLIP3",
 		"Clones": [
-			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
-			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
+
 		]
 	},
 
 	"391abfc1b0d33f69": {
-		"name": "ZFLIP5",
+		"name": "TEAM_2",
 		"Clones": [			
 			{ "name": "igg.10", "key": ["10", "l0", "1O"] },
 			{ "name": "igg.11", "key": ["11", "ll"] },
