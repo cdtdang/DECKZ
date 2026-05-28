@@ -6,7 +6,7 @@
 	"a0cd83b45a9be20e": {
 		"name": "TEAM_1",
 		"Clones": [
-			{ "name": "igg.01", "key": ["01", "Ol", "0l"] },
+			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
 			{ "name": "igg.02", "key": ["02", "O2"] },
 			{ "name": "igg.03", "key": ["03", "O3"] },
 			{ "name": "igg.04", "key": ["04", "O4"] },
