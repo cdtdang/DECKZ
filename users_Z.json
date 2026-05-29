@@ -18,31 +18,6 @@
 			{ "name": "cdtdang", "key": ["cdt", "dang@"] }
 		]
 	},
-	
-	"8fc0bdfd5551c667": {
-		"name": "TEAM_3",
-		"Clones": [						
-			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "igg.21", "key": ["21", "2l"] },
-			{ "name": "igg.22", "key": ["22"] },			
-			{ "name": "igg.26", "key": ["26"] },
-			{ "name": "igg.27", "key": ["27"] },
-			{ "name": "igg.28", "key": ["28"] },
-			{ "name": "igg.23", "key": ["23"] },
-			{ "name": "igg.25", "key": ["25"] },
-			{ "name": "igg.24", "key": ["24"] },
-			{ "name": "igg.29", "key": ["29"] }
-			
-		]
-	},
-	
-	"f9ad3e980a0d05c7": {
-		"name": "ZFLIP3",
-		"Clones": [
-
-		]
-	},
-
 	"391abfc1b0d33f69": {
 		"name": "TEAM_2",
 		"Clones": [			
@@ -58,6 +33,32 @@
 			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] }
 		]
 	},
+	"8fc0bdfd5551c667": {
+		"name": "TEAM_3",
+		"Clones": [						
+			{ "name": "igg.20", "key": ["20", "2O"] },
+			{ "name": "igg.21", "key": ["21", "2l"] },
+			{ "name": "igg.22", "key": ["22"] },			
+			{ "name": "igg.26", "key": ["26"] },
+			{ "name": "igg.27", "key": ["27"] },
+			{ "name": "igg.28", "key": ["28"] },
+			{ "name": "igg.23", "key": ["23"] },
+			{ "name": "igg.25", "key": ["25"] },
+			{ "name": "igg.24", "key": ["24"] },
+			{ "name": "igg.29", "key": ["29"] }
+			
+		]
+	},	
+	"00eb9c9dc94cb04c": {
+		"name": "TEAM_4",
+		"Clones": [
+			{ "name": "igg.30", "key": ["30", "3O"] },
+			{ "name": "igg.31", "key": ["31", "3l"] }
+			
+		]
+	},
+
+
 	
     "8ae468791fd8eeba": {
 	  "name": "BOSS"
