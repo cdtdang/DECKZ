@@ -53,7 +53,8 @@
 		"name": "TEAM_4",
 		"Clones": [
 			{ "name": "igg.30", "key": ["30", "3O"] },
-			{ "name": "igg.31", "key": ["31", "3l"] }
+			{ "name": "igg.31", "key": ["31", "3l"] },
+			{ "name": "igg.32", "key": ["32", "32"] }
 			
 		]
 	},
