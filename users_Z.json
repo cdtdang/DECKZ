@@ -6,8 +6,6 @@
 	"a0cd83b45a9be20e": {
 		"name": "TEAM_1",
 		"Clones": [
-			{ "name": "dangph0185", "key": ["dangph", "85@"] },
-			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
 			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
 			{ "name": "igg.02", "key": ["02", "O2"] },
 			{ "name": "igg.03", "key": ["03", "O3"] },
@@ -25,7 +23,9 @@
 			{ "name": "igg.16", "key": ["16", "l6"] },
 			{ "name": "igg.17", "key": ["17", "l7"] },
 			{ "name": "igg.18", "key": ["igg.18", "igg.l8"] },
-			{ "name": "igg.19", "key": ["19","l9"] }
+			{ "name": "igg.19", "key": ["19","l9"] },
+			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
+			{ "name": "dangph0185", "key": ["dangph", "85@"] }
 		]
 	},
 	"391abfc1b0d33f69": {
