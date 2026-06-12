@@ -72,16 +72,7 @@
 	"00eb9c9dc94cb04c": {
 		"name": "TEAM_4",
 		"Clones": [
-			{ "name": "igg.30", "key": ["30", "3O"] },
-			{ "name": "igg.31", "key": ["31", "3l"] },		
-			{ "name": "igg.32", "key": ["32"] },	
-			{ "name": "igg.33", "key": ["33"] },
-			{ "name": "igg.34", "key": ["34"] },
-			{ "name": "igg.35", "key": ["35"] },
-			{ "name": "igg.36", "key": ["36"] },
-			{ "name": "igg.37", "key": ["37"] },
-			{ "name": "igg.38", "key": ["38"] },
-			{ "name": "igg.39", "key": ["39"] }	
+
 		]
 	},
 
