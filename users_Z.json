@@ -25,7 +25,12 @@
 			{ "name": "igg.18", "key": ["igg.18", "igg.l8"] },
 			{ "name": "igg.19", "key": ["19","l9"] },
 			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
-			{ "name": "dangph0185", "key": ["dangph", "85@"] }
+			{ "name": "dangph0185", "key": ["dangph", "85@"] },
+			{ "name": "igg.20", "key": ["20", "2O"] },
+			{ "name": "igg.21", "key": ["21", "2l"] },
+			{ "name": "igg.22", "key": ["22"] },
+			{ "name": "igg.23", "key": ["23"] },
+			{ "name": "igg.24", "key": ["24"] }
 		]
 	},
 	"391abfc1b0d33f69": {
@@ -35,12 +40,7 @@
 	},
 	"8fc0bdfd5551c667": {
 		"name": "TEAM_3",
-		"Clones": [						
-			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "igg.21", "key": ["21", "2l"] },
-			{ "name": "igg.22", "key": ["22"] },
-			{ "name": "igg.23", "key": ["23"] },
-			{ "name": "igg.24", "key": ["24"] },
+		"Clones": [	
 			{ "name": "igg.25", "key": ["25"] },
 			{ "name": "igg.26", "key": ["26"] },
 			{ "name": "igg.27", "key": ["27"] },
