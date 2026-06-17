@@ -57,7 +57,13 @@
 			{ "name": "igg.38", "key": ["38"] },
 			{ "name": "igg.39", "key": ["39"] },
 			{ "name": "igg.40", "key": ["40", "4O"] },
-			{ "name": "igg.41", "key": ["41", "4l"] }	
+			{ "name": "igg.41", "key": ["41", "4l"] },
+			{ "name": "igg.42", "key": ["42"] },	
+			{ "name": "igg.43", "key": ["43"] },
+			{ "name": "igg.44", "key": ["44"] },
+			{ "name": "igg.45", "key": ["45"] },
+			{ "name": "igg.46", "key": ["46"] },
+			{ "name": "igg.47", "key": ["47"] }
 		]
 	},	
 	"00eb9c9dc94cb04c": {
