@@ -4,6 +4,7 @@
   "global_message": "",
   "users": {
 	"a0cd83b45a9be20e": {
+		"active": true,
 		"name": "TEAM_1",
 		"Clones": [
 			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
@@ -34,11 +35,13 @@
 		]
 	},
 	"391abfc1b0d33f69": {
+		"active": true,
 		"name": "TEAM_2",
 		"Clones": [			
 		]
 	},
 	"8fc0bdfd5551c667": {
+		"active": true,
 		"name": "TEAM_3",
 		"Clones": [	
 			{ "name": "igg.25", "key": ["25"] },
@@ -68,31 +71,17 @@
 		]
 	},	
 	"00eb9c9dc94cb04c": {
+		"active": true,
 		"name": "TEAM_4",
 		"Clones": [
 
 		]
 	},
 
-
-	
-    "8ae468791fd8eeba": {
-	  "name": "BOSS"
-    },	
-	"62ee9f59d39f61c1": {
-	  "name": "BOSS"
-    },
-	"d5e6f17786f8147c": {
- 	  "name": "BOSS"
-    },
-	"5cf1b49127ebecf6": {
- 	  "name": "MIMU"
-    },
 	"7b391cef462469b0": {
+	  "active": false,
 	  "name": "POCO"
     },
-    "6cc0616545c28630": {
-	  "name": "KIKI"
-    }	
+	
   }
 }
