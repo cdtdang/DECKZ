@@ -70,7 +70,7 @@
 		"active": true,		
 		"name": "THIÊN",
 		"Clones": [
-			{ "name": "001.thien, "key": ["001.t", "001"] },
+			{ "name": "001.thien", "key": ["001.t", "001"] },
 			{ "name": "002.thien", "key": ["002.t", "002"] },
 			{ "name": "003.thien", "key": ["003.t", "003"] },
 			{ "name": "004.thien", "key": ["004.t", "004"] },
