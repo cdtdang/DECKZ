@@ -34,12 +34,7 @@
 			{ "name": "dangph0185", "key": ["dangph", "85@"] }
 		]
 	},
-	"391abfc1b0d33f69": {
-		"active": true,
-		"name": "TEAM_2",
-		"Clones": [			
-		]
-	},
+
 	"8fc0bdfd5551c667": {
 		"active": true,
 		"name": "TEAM_3",
@@ -70,13 +65,7 @@
 			{ "name": "igg.48", "key": ["48"] }
 		]
 	},	
-	"00eb9c9dc94cb04c": {
-		"active": true,
-		"name": "TEAM_4",
-		"Clones": [
-
-		]
-	},
+	  
     "858f730ef4e6333b": {
 		"active": true,		
 		"name": "THIÊN",
@@ -104,5 +93,11 @@
 	  "name": "POCO"
     },
 	
+	  "88c15f90730f4a3d": {
+		"active": true,
+		"name": "LOIVU",
+		"Clones": [			
+		]
+	}
   }
 }
