@@ -29,11 +29,11 @@
 	  {
       "username": "NOTE10",
       "deviceIds": [
-        "24E88A45B6B823DC"
+        "a6b62b4a14a860ee"
       ],
       "devices": [        
-		{ "udid": "192.168.1.16:5555", "name": "Máy 4" }
+		  { "udid": "192.168.1.2:5555", "name": "Máy 1" }
       ]
-    }, 
+    }
   ]
 }
