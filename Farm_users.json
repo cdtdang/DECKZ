@@ -16,6 +16,24 @@
         { "udid": "192.168.1.5:5555", "name": "Máy 3" },
 		{ "udid": "192.168.1.16:5555", "name": "Máy 4" }
       ]
-    }
+    }, 
+	 {
+      "username": "THIEN",
+      "deviceIds": [
+        "24e88a45b6b823dc"
+      ],
+      "devices": [        
+		{ "udid": "192.168.1.16:5555", "name": "Máy 4" }
+      ]
+    }, 
+	  {
+      "username": "NOTE10",
+      "deviceIds": [
+        "24E88A45B6B823DC"
+      ],
+      "devices": [        
+		{ "udid": "192.168.1.16:5555", "name": "Máy 4" }
+      ]
+    }, 
   ]
 }
