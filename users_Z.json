@@ -68,7 +68,7 @@
 	  
     "858f730ef4e6333b": {
 		"active": true,		
-		"name": "THIÊN",
+		"name": "THIÊN 1",
 		"Clones": [
 			{ "name": "001.thien", "key": ["001.t", "001"] },
 			{ "name": "002.thien", "key": ["002.t", "002"] },
@@ -87,26 +87,13 @@
 			{ "name": "khiem41", "key": ["41@", "khiem41"] }
 		]
     },
+	"5df4e669196e4ba5": {
+		"active": true,		
+		"name": "TUYÊN",
+    },  
 	"00eb9c9dc94cb04c": {
 		"active": true,		
 		"name": "THIÊN",
-		"Clones": [
-			{ "name": "001.thien", "key": ["001.t", "001"] },
-			{ "name": "002.thien", "key": ["002.t", "002"] },
-			{ "name": "003.thien", "key": ["003.t", "003"] },
-			{ "name": "004.thien", "key": ["004.t", "004"] },
-			{ "name": "005.thien", "key": ["005.t", "005"] },
-			{ "name": "006.thien", "key": ["006.t", "006"] },			
-			{ "name": "phi1", "key": ["i1@", "phi1", "phil", "il@"] },
-			{ "name": "phi2", "key": ["i2@", "phi2"] },
-			{ "name": "phi3", "key": ["i3@", "phi3"] },
-			{ "name": "phi4", "key": ["i4@", "phi4"] },
-			{ "name": "phi5", "key": ["i5@", "phi5"] },
-			{ "name": "tuye39", "key": ["duc"] },
-			{ "name": "khiem39", "key": ["khiem39"] },
-			{ "name": "khiem40", "key": ["40@", "khiem40"] },
-			{ "name": "khiem41", "key": ["41@", "khiem41"] }
-		]
     },  
 	"7b391cef462469b0": {
 	  "active": true,
