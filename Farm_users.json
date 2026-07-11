@@ -18,6 +18,15 @@
 		{ "udid": "192.168.1.6:5555", "name": "Máy 5 -  Mẫn" }
       ]
     }, 
+	{
+      "username": "Tuyên",
+      "deviceIds": [
+        "8ffc15aed97e6277"
+      ],
+      "devices": [
+        { "udid": "192.168.1.9:5555", "name": "Rose" }        
+      ]
+    },   
 	 {
       "username": "THIEN",
       "deviceIds": [
@@ -27,14 +36,16 @@
 		{ "udid": "192.168.1.8:5555", "name": "Máy 4" }
       ]
     }, 
+	  
 	  {
       "username": "Impeder",
       "deviceIds": [
         "cf888d90819ba219"
-      ],
+      ],		  
       "devices": [        
 		  { "udid": "192.168.1.6:5555", "name": "Máy Mẫn" }
       ]
     }
+	  
   ]
 }
