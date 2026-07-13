@@ -1,13 +1,12 @@
 {
   "data_version": 2.4,
   "system_active": true, 
+  "update": true,
+  "global_message": "• Thêm Mốc Power cho Raid\n• Tối ưu tốc độ buff", 
   "buttons": {         
 	 "duel": false,
      "sky": false    
-  },
-  "update": true,
-  "global_message": "• Sửa lỗi Duel AquaOp\n• Thêm Mốc Power cho Raid\n• Tối ưu tốc độ buff",
-  "global_message": "",
+  },  
   "users": {
 	"a0cd83b45a9be20e": {
 		"active": true,
