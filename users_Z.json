@@ -9,6 +9,10 @@
   "users": {
 	"a0cd83b45a9be20e": {
 		"active": true,
+		"buttons": {    
+    	   "duel": false,
+    	   "sky": false    
+  		},
 		"name": "TEAM_1",
 		"Clones": [
 			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
@@ -41,6 +45,10 @@
 
 	"8fc0bdfd5551c667": {
 		"active": true,
+		"buttons": {    
+    	   "duel": false,
+    	   "sky": false    
+  		},
 		"name": "TEAM_3",
 		"Clones": [	
 			{ "name": "igg.25", "key": ["25"] },
