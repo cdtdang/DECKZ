@@ -9,9 +9,17 @@
   "users": {
 	"a0cd83b45a9be20e": {
 		"active": true,
-		"buttons": {    
-    	   "duel": false,
-    	   "sky": false    
+		"buttons": { 
+			"raid":  false,
+			"draw":  false,
+			"mine":  false,
+			"trial":  false,
+			"explorer":  false,
+			"gauntlet":  false,
+			"bug":  false,
+			"update":  false,
+    		"duel": false,
+    		"sky": false    
   		},
 		"name": "TEAM_1",
 		"Clones": [
@@ -46,8 +54,16 @@
 	"8fc0bdfd5551c667": {
 		"active": true,
 		"buttons": {    
-    	   "duel": false,
-    	   "sky": false    
+    	   "raid":  false,
+			"draw":  false,
+			"mine":  false,
+			"trial":  false,
+			"explorer":  false,
+			"gauntlet":  false,
+			"bug":  false,
+			"update":  false,
+    		"duel": false,
+    		"sky": false    
   		},
 		"name": "TEAM_3",
 		"Clones": [	
