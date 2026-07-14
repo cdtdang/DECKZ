@@ -1,7 +1,7 @@
 {
   "data_version": 2.4,
   "system_active": true, 
-  "update": false,
+  "update": true,
   "global_message": "• Thêm Data mua Momoya", 
   "buttons": {         
 	 "update": false,
