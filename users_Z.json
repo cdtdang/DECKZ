@@ -9,6 +9,7 @@
   },  
   "settings": {
     "cbOneSellCard": false,
+	"cbOneExplorer": false,	  
     "cbOneUnshield": false
   },
   "users": {
