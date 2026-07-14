@@ -28,6 +28,9 @@
     		"sky": false    
   		},
 		"settings": {
+			"cbOneSellCard": true,
+			"cbOneExplorer": true,	  
+  			"cbOneUnshield": true,
 		    "cbOneMomo": false,
 		    "rgAppMode": false		   
 		  },
@@ -76,7 +79,10 @@
     		"sky": false    
   		},
 		"settings": {
-		    "cbOneMomo": false,
+		    "cbOneSellCard": true,
+			"cbOneExplorer": true,	  
+  			"cbOneUnshield": true,
+			"cbOneMomo": false,
 		    "rgAppMode": false		   
 		  },
 		"name": "TEAM_3",
