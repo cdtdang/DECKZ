@@ -7,6 +7,10 @@
 	 "duel": false,
      "sky": false    
   },  
+  "settings": {
+    "cbOneSellCard": false,
+    "cbOneUnshield": false
+  },
   "users": {
 	"a0cd83b45a9be20e": {
 		"active": true,
@@ -22,6 +26,10 @@
     		"duel": false,
     		"sky": false    
   		},
+		"settings": {
+		    "cbOneMomo": false,
+		    "rgAppMode": false		   
+		  },
 		"name": "TEAM_1",
 		"Clones": [
 			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
@@ -66,6 +74,10 @@
     		"duel": false,
     		"sky": false    
   		},
+		"settings": {
+		    "cbOneMomo": false,
+		    "rgAppMode": false		   
+		  },
 		"name": "TEAM_3",
 		"Clones": [	
 			{ "name": "igg.25", "key": ["25"] },
