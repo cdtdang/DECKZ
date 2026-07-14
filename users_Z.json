@@ -1,8 +1,8 @@
 {
   "data_version": 2.4,
   "system_active": true, 
-  "update": false,
-  "global_message": "• Thêm Mốc Power cho Raid\n• Tối ưu tốc độ buff", 
+  "update": true,
+  "global_message": "• Thêm Data mua Momoya", 
   "buttons": {         
 	 "duel": false,
      "sky": false    
