@@ -4,6 +4,7 @@
   "update": false,
   "global_message": "• Thêm Data mua Momoya", 
   "buttons": {         
+	 "update": false,
 	 "duel": false,
      "sky": false    
   },  
