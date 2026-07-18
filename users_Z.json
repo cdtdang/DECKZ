@@ -25,6 +25,7 @@
 			"gauntlet":  false,
 			"bug":  false,
 			"update":  false,
+   "restart": false,
     		"duel": false,
     		"sky": false    
   		},
@@ -76,6 +77,7 @@
 			"gauntlet":  false,
 			"bug":  false,
 			"update":  false,
+  "restart": false,
     		"duel": false,
     		"sky": false    
   		},
