@@ -76,7 +76,7 @@
 			"trial":  false,
 			"explorer":  false,
 			"gauntlet":  false,
-			"bug":  true,
+			"bug":  false,
 			"update":  false,
   			"restart": true,
 			"mini": false,
