@@ -25,7 +25,8 @@
 			"gauntlet":  false,
 			"bug":  false,
 			"update":  false,
-   "restart": false,
+            "restart": true,
+			"mini": false,
     		"duel": false,
     		"sky": false    
   		},
@@ -36,7 +37,7 @@
 		    "cbOneMomo": false,
 		    "rgAppMode": false		   
 		  },
-		"name": "TEAM_1",
+		"name": "CLONE 1",
 		"Clones": [
 			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
 			{ "name": "igg.02", "key": ["02", "O2"] },
@@ -77,7 +78,8 @@
 			"gauntlet":  false,
 			"bug":  false,
 			"update":  false,
-  "restart": false,
+  			"restart": true,
+			"mini": false,
     		"duel": false,
     		"sky": false    
   		},
@@ -88,7 +90,7 @@
 			"cbOneMomo": false,
 		    "rgAppMode": false		   
 		  },
-		"name": "TEAM_3",
+		"name": "CLONE 2",
 		"Clones": [	
 			{ "name": "igg.25", "key": ["25"] },
 			{ "name": "igg.26", "key": ["26"] },
