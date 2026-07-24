@@ -15,8 +15,9 @@
 		{ "udid": "192.168.1.52:5555", "name": "Máy 2 - Clones A" },
         { "udid": "192.168.1.51:5555", "name": "Máy 3 - Clones B" },       
 		{ "udid": "192.168.1.53:5555", "name": "Máy 4 - Thiên" },
-		{ "udid": "192.168.1.54:5555", "name": "Máy 5 -  Mẫn" },
-		{ "udid": "192.168.1.55:5555", "name": "Máy 6 -  Tuyên" }
+		{ "udid": "192.168.1.56:5555", "name": "Máy 5 - Clonne T" },
+		{ "udid": "192.168.1.54:5555", "name": "Máy 6 -  Mẫn" },
+		{ "udid": "192.168.1.55:5555", "name": "Máy 7 -  Tuyên" }
       ]
     }, 
 	{
@@ -33,7 +34,8 @@
       "deviceIds": [
         "24e88a45b6b823dc"
       ],
-      "devices": [        
+      "devices": [   
+		{ "udid": "192.168.1.56:5555", "name": "Máy Clone Thiên" },
 		{ "udid": "192.168.1.53:5555", "name": "Máy Thiên" }
       ]
     }, 
