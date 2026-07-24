@@ -20,8 +20,8 @@
 			"raid":  false,
 			"draw":  false,
 			"mine":  false,
-			"trial":  false,
-			"explorer":  false,
+			"trial":  true,
+			"explorer":  true,
 			"gauntlet":  false,
 			"bug":  true,
 			"update":  false,
@@ -73,8 +73,8 @@
     	   "raid":  false,
 			"draw":  false,
 			"mine":  false,
-			"trial":  false,
-			"explorer":  false,
+			"trial":  true,
+			"explorer":  true,
 			"gauntlet":  false,
 			"bug":  true,
 			"update":  false,
@@ -121,6 +121,27 @@
 	  
     "858f730ef4e6333b": {
 		"active": true,		
+		"buttons": { 
+			"raid":  false,
+			"draw":  false,
+			"mine":  false,
+			"trial":  true,
+			"explorer":  true,
+			"gauntlet":  false,
+			"bug":  true,
+			"update":  false,
+            "restart": true,
+			"mini": false,
+    		"duel": false,
+    		"sky": false    
+  		},
+		"settings": {
+			"cbOneSellCard": true,
+			"cbOneExplorer": true,	  
+  			"cbOneUnshield": true,
+		    "cbOneMomo": false,
+		    "rgAppMode": false		   
+		  },
 		"name": "THIÊN 1",
 		"Clones": [
 			{ "name": "001.thien", "key": ["001.t", "001"] },
