@@ -35,8 +35,9 @@
         "24e88a45b6b823dc"
       ],
       "devices": [   
-		{ "udid": "192.168.1.56:5555", "name": "Máy Clone Thiên" },
-		{ "udid": "192.168.1.53:5555", "name": "Máy Thiên" }
+		  { "udid": "192.168.1.53:5555", "name": "Máy 1 - Nika" },
+		  { "udid": "192.168.1.56:5555", "name": "Máy 2 - Clone" }
+		
       ]
     }, 
 	  
