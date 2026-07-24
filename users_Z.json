@@ -121,27 +121,7 @@
 	  
     "858f730ef4e6333b": {
 		"active": true,		
-		"buttons": { 
-			"raid":  false,
-			"draw":  false,
-			"mine":  false,
-			"trial":  true,
-			"explorer":  true,
-			"gauntlet":  false,
-			"bug":  true,
-			"update":  false,
-            "restart": true,
-			"mini": false,
-    		"duel": false,
-    		"sky": false    
-  		},
-		"settings": {
-			"cbOneSellCard": true,
-			"cbOneExplorer": true,	  
-  			"cbOneUnshield": true,
-		    "cbOneMomo": false,
-		    "rgAppMode": false		   
-		  },
+		
 		"name": "THIÊN 1",
 		"Clones": [
 			{ "name": "001.thien", "key": ["001.t", "001"] },
@@ -204,24 +184,45 @@
     },
 	  
 	"391abfc1b0d33f69": {
-		"active": true,		
+		"active": true,	
+		"buttons": { 
+			"raid":  false,
+			"draw":  false,
+			"mine":  false,
+			"trial":  true,
+			"explorer":  true,
+			"gauntlet":  false,
+			"bug":  true,
+			"update":  false,
+            "restart": true,
+			"mini": false,
+    		"duel": false,
+    		"sky": false    
+  		},
+		"settings": {
+			"cbOneSellCard": true,
+			"cbOneExplorer": true,	  
+  			"cbOneUnshield": true,
+		    "cbOneMomo": false,
+		    "rgAppMode": false		   
+		  },
 		"name": "THIÊN-CLONE",
 		"Clones": [
-			{ "name": "001.thiendh@gmail.com", "key": ["001.t", "001"] },
-			{ "name": "002.thiendh@gmail.com", "key": ["002.t", "002"] },
-			{ "name": "003.thiendh@gmail.com", "key": ["003.t", "003"] },
-			{ "name": "004.thiendh@gmail.com", "key": ["004.t", "004"] },
-			{ "name": "005.thiendh@gmail.com", "key": ["005.t", "005"] },
-			{ "name": "006.thiendh@gmail.com", "key": ["006.t", "006"] },
-			{ "name": "dukhiem39@gmail.com", "key": ["39@", "khiem39"] },
-			{ "name": "dukhiem40@gmail.com", "key": ["40@", "khiem40"] },
-			{ "name": "dukhiem41@gmail.com", "key": ["41@", "khiem41"] },
-			{ "name": "thien.nguyenthai.phi1@gmail.com", "key": ["i1@", "phi1", "phil", "il@"] },
-			{ "name": "thien.nguyenthai.phi2@gmail.com", "key": ["i2@", "phi2"] },
-			{ "name": "thien.nguyenthai.phi3@gmail.com", "key": ["i3@", "phi3"] },
-			{ "name": "thien.nguyenthai.phi4@gmail.com", "key": ["i4@", "phi4"] },
-			{ "name": "thien.nguyenthai.phi5@gmail.com", "key": ["i5@", "phi5"] },
-			{ "name": "ductuye39@gmail.com", "key": ["39@", "duc"] }
+			{ "name": "001.thien", "key": ["001.t", "001"] },
+			{ "name": "002.thien", "key": ["002.t", "002"] },
+			{ "name": "003.thien", "key": ["003.t", "003"] },
+			{ "name": "004.thien", "key": ["004.t", "004"] },
+			{ "name": "005.thien", "key": ["005.t", "005"] },
+			{ "name": "006.thien", "key": ["006.t", "006"] },			
+			{ "name": "phi1", "key": ["i1@", "phi1", "phil", "il@"] },
+			{ "name": "phi2", "key": ["i2@", "phi2"] },
+			{ "name": "phi3", "key": ["i3@", "phi3"] },
+			{ "name": "phi4", "key": ["i4@", "phi4"] },
+			{ "name": "phi5", "key": ["i5@", "phi5"] },
+			{ "name": "tuye39", "key": ["duc"] },
+			{ "name": "khiem39", "key": ["khiem39"] },
+			{ "name": "khiem40", "key": ["40@", "khiem40"] },
+			{ "name": "khiem41", "key": ["41@", "khiem41"] }
 		]
     }, 
 	  
