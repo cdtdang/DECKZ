@@ -26,7 +26,7 @@
 			"bug":  true,
 			"update":  false,
             "restart": true,
-			"mini": false,
+			"mini": true,
     		"duel": false,
     		"sky": false    
   		},
@@ -79,7 +79,7 @@
 			"bug":  true,
 			"update":  false,
   			"restart": true,
-			"mini": false,
+			"mini": true,
     		"duel": false,
     		"sky": false    
   		},
@@ -195,7 +195,7 @@
 			"bug":  true,
 			"update":  false,
             "restart": true,
-			"mini": false,
+			"mini": true,
     		"duel": false,
     		"sky": false    
   		},
