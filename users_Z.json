@@ -18,9 +18,9 @@
 		"active": true,
 		"buttons": { 
 			"raid":  false,
-			"draw":  false,
+			"draw":  true,
 			"mine":  false,
-			"trial":  true,
+			"trial":  false,
 			"explorer":  true,
 			"gauntlet":  false,
 			"bug":  true,
