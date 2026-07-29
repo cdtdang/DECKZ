@@ -3,40 +3,10 @@
   "system_active": true, 
   "update": true,
   "global_message": "• Thêm Data mua Momoya", 
-  "buttons": {         
-	 "update": false,
-	 "duel": false,
-     "sky": false    
-  },  
-  "settings": {
-    "cbOneSellCard": false,
-	"cbOneExplorer": false,	  
-    "cbOneUnshield": false
-  },
+
   "users": {
 	"a0cd83b45a9be20e": {
 		"active": true,
-		"buttons": { 
-			"raid":  false,
-			"draw":  true,
-			"mine":  false,
-			"trial":  false,
-			"explorer":  true,
-			"gauntlet":  false,
-			"bug":  true,
-			"update":  false,
-            "restart": true,
-			"mini": true,
-    		"duel": false,
-    		"sky": false    
-  		},
-		"settings": {
-			"cbOneSellCard": true,
-			"cbOneExplorer": true,	  
-  			"cbOneUnshield": true,
-		    "cbOneMomo": false,
-		    "rgAppMode": false		   
-		  },
 		"name": "CLONE 1",
 		"Clones": [
 			{ "name": "igg.01", "key": ["01@", "Ol@", "0l@"] },
@@ -69,27 +39,6 @@
 
 	"8fc0bdfd5551c667": {
 		"active": true,
-		"buttons": {    
-    	   "raid":  false,
-			"draw":  false,
-			"mine":  false,
-			"trial":  true,
-			"explorer":  true,
-			"gauntlet":  false,
-			"bug":  true,
-			"update":  false,
-  			"restart": true,
-			"mini": true,
-    		"duel": false,
-    		"sky": false    
-  		},
-		"settings": {
-		    "cbOneSellCard": true,
-			"cbOneExplorer": true,	  
-  			"cbOneUnshield": true,
-			"cbOneMomo": false,
-		    "rgAppMode": false		   
-		  },
 		"name": "CLONE 2",
 		"Clones": [	
 			{ "name": "igg.25", "key": ["25"] },
@@ -185,27 +134,6 @@
 	  
 	"391abfc1b0d33f69": {
 		"active": true,	
-		"buttons": { 
-			"raid":  false,
-			"draw":  false,
-			"mine":  false,
-			"trial":  true,
-			"explorer":  true,
-			"gauntlet":  false,
-			"bug":  true,
-			"update":  false,
-            "restart": true,
-			"mini": true,
-    		"duel": false,
-    		"sky": false    
-  		},
-		"settings": {
-			"cbOneSellCard": true,
-			"cbOneExplorer": true,	  
-  			"cbOneUnshield": true,
-		    "cbOneMomo": false,
-		    "rgAppMode": false		   
-		  },
 		"name": "THIÊN-CLONE",
 		"Clones": [
 			{ "name": "001.thien", "key": ["001.t", "001"] },
