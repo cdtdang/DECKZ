@@ -47,7 +47,8 @@
       "deviceIds": [
         "cf888d90819ba219"
       ],		  
-      "devices": [        
+      "devices": [ 
+    { "udid": "192.168.1.50:5555", "name": " Máy Lôi Vũ" },       
 		  { "udid": "192.168.1.54:5555", "name": "Máy Mẫn" }
       ]
     }
