@@ -8,7 +8,8 @@
     {
       "username": "LôiVũ",
       "deviceIds": [
-        "0f1352eea89124c7"
+        "0f1352eea89124c7",
+		"dcc62ac3-ce6e-4d72-916c-9a83dbec85bb"
       ],
       "devices": [
         { "udid": "192.168.1.50:5555", "name": "Máy 1 - Lôi Vũ" },
