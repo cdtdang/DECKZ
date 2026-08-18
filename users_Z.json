@@ -168,7 +168,12 @@
 			{ "name": "thuyet14", "key": ["thuyet", "14mi"] },
 			{ "name": "011.thien", "key": ["011.t", "011"] },
 			{ "name": "012.thien", "key": ["012.t", "012"] },
-			{ "name": "014.thien", "key": ["014.t", "014"] }
+			{ "name": "014.thien", "key": ["014.t", "014"] },
+			{ "name": "015.thien", "key": ["015.t", "015"] },
+			{ "name": "016.thien", "key": ["016.t", "016"] },
+			{ "name": "017.thien", "key": ["017.t", "017"] },
+			{ "name": "018.thien", "key": ["018.t", "018"] },
+			{ "name": "019.thien", "key": ["019.t", "019"] }
 		]
     }, 
 	  
