@@ -29,32 +29,9 @@
 		]
 	},
 
-	"8fc0bdfd5551c667": {
-		"active": true,
-		"name": "CLONE 2",
-		"Clones": [	
-			{ "name": "igg.34", "key": ["34"] },
-			{ "name": "igg.35", "key": ["35"] },
-			{ "name": "igg.36", "key": ["36"] },
-			{ "name": "igg.37", "key": ["37"] },
-			{ "name": "igg.38", "key": ["38"] },
-			{ "name": "igg.39", "key": ["39"] },
-			{ "name": "igg.40", "key": ["40", "4O"] },
-			{ "name": "igg.41", "key": ["41", "4l"] },
-			{ "name": "igg.42", "key": ["42"] },	
-			{ "name": "igg.43", "key": ["43"] },
-			{ "name": "igg.44", "key": ["44"] },
-			{ "name": "igg.45", "key": ["45"] },
-			{ "name": "igg.46", "key": ["46"] },
-			{ "name": "igg.47", "key": ["47"] },
-			{ "name": "igg.48", "key": ["48"] },
-			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
-			{ "name": "dangph0185", "key": ["dangph", "85@"] }
-		]
-	},	
 	 	"f9ad3e980a0d05c7": {
 		"active": true,
-		"name": "CLONE 3",
+		"name": "CLONE 2",
 		"Clones": [	
 			{ "name": "igg.18", "key": ["18", "l8"] },
 			{ "name": "igg.19", "key": ["19","l9"] },			
@@ -75,6 +52,31 @@
 			
 		]
 	},	 
+
+	  "8fc0bdfd5551c667": {
+		"active": true,
+		"name": "CLONE 3",
+		"Clones": [	
+			{ "name": "igg.34", "key": ["34"] },
+			{ "name": "igg.35", "key": ["35"] },
+			{ "name": "igg.36", "key": ["36"] },
+			{ "name": "igg.37", "key": ["37"] },
+			{ "name": "igg.38", "key": ["38"] },
+			{ "name": "igg.39", "key": ["39"] },
+			{ "name": "igg.40", "key": ["40", "4O"] },
+			{ "name": "igg.41", "key": ["41", "4l"] },
+			{ "name": "igg.42", "key": ["42"] },	
+			{ "name": "igg.43", "key": ["43"] },
+			{ "name": "igg.44", "key": ["44"] },
+			{ "name": "igg.45", "key": ["45"] },
+			{ "name": "igg.46", "key": ["46"] },
+			{ "name": "igg.47", "key": ["47"] },
+			{ "name": "igg.48", "key": ["48"] },
+			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
+			{ "name": "dangph0185", "key": ["dangph", "85@"] }
+		]
+	},	
+	  
     "858f730ef4e6333b": {
 		"active": true,				
 		"name": "THIÊN XIEMI",	
