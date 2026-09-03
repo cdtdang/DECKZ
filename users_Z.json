@@ -31,9 +31,8 @@
 			{ "name": "igg.21", "key": ["21", "2l"] },
 			{ "name": "igg.22", "key": ["22"] },
 			{ "name": "igg.23", "key": ["23"] },
-			{ "name": "igg.24", "key": ["24"] },
-			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
-			{ "name": "dangph0185", "key": ["dangph", "85@"] }
+			{ "name": "igg.24", "key": ["24"] }
+			
 		]
 	},
 
@@ -41,15 +40,6 @@
 		"active": true,
 		"name": "CLONE 2",
 		"Clones": [	
-			{ "name": "igg.25", "key": ["25"] },
-			{ "name": "igg.26", "key": ["26"] },
-			{ "name": "igg.27", "key": ["27"] },
-			{ "name": "igg.28", "key": ["28"] },			
-			{ "name": "igg.29", "key": ["29"] },
-			{ "name": "igg.30", "key": ["30", "3O"] },
-			{ "name": "igg.31", "key": ["31", "3l"] },		
-			{ "name": "igg.32", "key": ["32"] },	
-			{ "name": "igg.33", "key": ["33"] },
 			{ "name": "igg.34", "key": ["34"] },
 			{ "name": "igg.35", "key": ["35"] },
 			{ "name": "igg.36", "key": ["36"] },
@@ -64,7 +54,9 @@
 			{ "name": "igg.45", "key": ["45"] },
 			{ "name": "igg.46", "key": ["46"] },
 			{ "name": "igg.47", "key": ["47"] },
-			{ "name": "igg.48", "key": ["48"] }
+			{ "name": "igg.48", "key": ["48"] },
+			{ "name": "cdtdang", "key": ["cdt", "dang@"] },
+			{ "name": "dangph0185", "key": ["dangph", "85@"] }
 		]
 	},	
 	 	"f9ad3e980a0d05c7": {
