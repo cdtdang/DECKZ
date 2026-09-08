@@ -1,8 +1,8 @@
 {
-  "data_version": 3.8,
+  "data_version": 3.9,
   "system_active": true, 
   "update": true,
-  "global_message": "• Thêm Data giao diện mới", 
+  "global_message": "• Thêm Data card Alice vào Duel", 
 
   "users": {
 	"a0cd83b45a9be20e": {
