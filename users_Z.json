@@ -1,8 +1,8 @@
 {
-  "data_version": 4.1,
+  "data_version": 4.2,
   "system_active": true, 
   "update": true,
-  "global_message": "• Thêm Data card Alice, Terra, Ra vào Duel", 
+  "global_message": "• Thêm Data card Alice, Terra, Ra, CardOp, BuffOp vào Duel", 
 
   "users": {
 	"a0cd83b45a9be20e": {
