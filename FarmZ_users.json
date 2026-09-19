@@ -21,5 +21,28 @@
 		{ "udid": "192.168.1.55:5555", "name": "Máy 9 - Tuyên" }
       ]
     }, 	  
+	
+	  {
+      "username": "THIEN",
+      "deviceIds": [
+        "24e88a45b6b823dc"
+      ],
+      "devices": [   
+		  { "udid": "192.168.1.53:5555", "name": "Máy 1 - Nika" },
+		  { "udid": "192.168.1.56:5555", "name": "Máy 2 - Clone" }
+		
+      ]
+    }, 
+	  
+	{
+      "username": "Impeder",
+      "deviceIds": [
+        "cf888d90819ba219"
+      ],		  
+      "devices": [ 
+       
+		  { "udid": "192.168.1.54:5555", "name": "Máy Mẫn" }
+      ]
+    }
   ]
 }
